@@ -1,0 +1,4 @@
+dataset2 contains 524 images for ears used for training the faster_RCNN for ear detection and localization in our paper("Ear Recognition System Using Deep Learning")
+note:
+"input"  folder contains the input images for training the faster_RCNN
+"target" folder contains the target or response of the faster_RCNN, which is box, with a simple algorithm the four vertexes[(x1,y1),(x2,y2), (x3,y3) (x4,y4)] of boxes can be computed. 
