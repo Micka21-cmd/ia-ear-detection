@@ -1,0 +1,7 @@
+Dataset1 contains 2600 images of ear divided as 13 classes or groups
+this dataset used to train the proposed CNN deep neural network in our paper ("Ear Recognition System Using Deep Learning")
+also, this dataset used to train classifier and to make the database for the final project
+note:
+520  images for each test and validation sets
+1560 images for the training set
+008,009 and 010 groups used as unknown
